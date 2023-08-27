@@ -1,7 +1,7 @@
 {
   "name": "colorful-palette",
   "version": "1.0.0",
-  "description": "change your name",
+  "description": "A colorful palette",
   "type": "module",
   "exports": "./esm/index.js",
   "types": "./esm/index.d.ts",
@@ -11,6 +11,6 @@
   "dependencies": {
     "@nzha/ntsc": "*"
   },
-  "author": "maoxiaoke",
+  "author": "maoxiaoke@outlook.com",
   "license": "ISC"
 }
