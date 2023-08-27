@@ -1,10 +1,16 @@
 {
   "name": "colorful-palette",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A colorful palette",
   "type": "module",
   "exports": "./esm/index.js",
   "types": "./esm/index.d.ts",
+  "files": [
+    "esm",
+    "lib",
+    "package.json",
+    "README.md"
+  ],
   "scripts": {
     "build": "rm -rf esm && ntsc"
   },
